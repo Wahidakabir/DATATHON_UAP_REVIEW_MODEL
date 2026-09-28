@@ -1,0 +1,11 @@
+Required input files
+
+Place the following competition/data files in this folder when distributing
+the complete runnable dataset package:
+
+- train.csv
+- test.csv
+- sample_submission.csv
+
+They are not included in this package because they were not provided with the
+notebook upload.
